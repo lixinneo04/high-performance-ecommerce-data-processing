@@ -4,7 +4,7 @@
 
 ## Project Introduction
 
-This project benchmarks the performance of various Python libraries when handling a \*\*700MB+ Shopee logistics dataset\*\*. We implement optimization strategies to ensure scalable data processing in resource-constrained environments like Google Colab.
+This project benchmarks the performance of various Python libraries when handling a **700MB+ Shopee logistics dataset**. We implement optimization strategies to ensure scalable data processing in resource-constrained environments like Google Colab.
 
 
 
