@@ -22,7 +22,7 @@ The project focuses on handling a large real-world e-commerce logistics dataset 
 | Item | Description |
 |---|---|
 | Dataset Name | Shopee Logistics Performance March |
-| Source | Kaggle - Open Shopee Code League Logistics |
+| Source | [Kaggle - Open Shopee Code League 2020](https://www.kaggle.com/datasets/davydev/shopee-code-league-20) |
 | File Used | `delivery_orders_march.csv` |
 | Compressed File | `delivery_orders_march.csv.zip` |
 | Compressed Size | Approximately 381 MB |
@@ -115,3 +115,12 @@ The project compares **Pandas**, **Dask**, and **Polars** using the same process
 ## Notes
 
 The results may vary slightly depending on the runtime environment, especially when executed in Google Colab, because available CPU cores and RAM allocation may differ between sessions.
+
+---
+
+## References
+
+- [Shopee Code League 2020 Dataset on Kaggle](https://www.kaggle.com/datasets/davydev/shopee-code-league-20)
+- [Pandas Documentation](https://pandas.pydata.org/docs/)
+- [Dask Documentation](https://docs.dask.org/)
+- [Polars Documentation](https://docs.pola.rs/)
