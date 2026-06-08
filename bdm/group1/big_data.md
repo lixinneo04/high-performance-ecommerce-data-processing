@@ -4,8 +4,8 @@
 
 | Name | Matric No. | Role |
 |---|---|---|
-| ELIJAH SHE YU SHENG | A23CS0073 | Student A: Baseline & Setup Lead |
-| NEO LI XIN | A23CS0253 | Student B: Scalability & Performance Lead |
+| NEO LI XIN | A23CS0253 | Student A: Baseline & Setup Lead |
+| ELIJAH SHE YU SHENG | A23CS0073 | Student B: Scalability & Performance Lead |
 
 ---
 
