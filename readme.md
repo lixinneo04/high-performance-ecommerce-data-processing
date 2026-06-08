@@ -4,8 +4,8 @@
 
 | Name | Matric No. | Role |
 |---|---|---|
-| ELIJAH SHE YU SHENG | A23CS0073 | Student A: Baseline & Setup Lead |
-| NEO LI XIN | A23CS0253 | Student B: Scalability & Performance Lead |
+| NEO LI XIN | A23CS0253 | Student A: Baseline & Setup Lead |
+| ELIJAH SHE YU SHENG | A23CS0073 | Student B: Scalability & Performance Lead |
 
 ## Dataset
 
@@ -44,19 +44,6 @@
 | ELIJAH SHE YU SHENG | Dataset preparation, dataset description, Pandas baseline, Pandas strategies, GitHub setup, first half of report |
 | NEO LI XIN | Dask and Polars implementation, performance testing, comparison charts, analysis, conclusion and scalability reflection |
 
-## How to Run
 
-1. Upload `delivery_orders_march.csv.zip` to Google Drive.
-2. Open `big_data.ipynb` in Google Colab.
-3. Update the `base_dir` path if your Google Drive folder is different.
-4. Run all cells from top to bottom.
-5. Confirm that all outputs, comparison tables, and charts are visible before submission.
 
-## GitHub Folder Structure
 
-```text
-ass2/your_group_name/
-├── big_data.md
-├── big_data.ipynb
-└── readme.md
-```
