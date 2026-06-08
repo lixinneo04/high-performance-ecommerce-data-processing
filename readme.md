@@ -1,36 +1,62 @@
-# High-Performance Big Data Processing: Shopee Logistics Analysis
-
-
-
-## Project Introduction
-
-This project benchmarks the performance of various Python libraries when handling a **700MB+ Shopee logistics dataset**. We implement optimization strategies to ensure scalable data processing in resource-constrained environments like Google Colab.
-
-
+# SECP3133 Assignment 2: Mastering Big Data Handling
 
 ## Group Information
 
-* **Group:** 1
+| Name | Matric No. | Role |
+|---|---|---|
+| ELIJAH SHE YU SHENG | A23CS0073 | Student A: Baseline & Setup Lead |
+| NEO LI XIN | A23CS0253 | Student B: Scalability & Performance Lead |
 
-* **Member 1:** Neo Li Xin
+## Dataset
 
-* **Member 2:** Elijah She Yu Sheng
+| Item | Description |
+|---|---|
+| Dataset Name | Shopee Logistics Performance March |
+| Source | Kaggle - Open Shopee Code League Logistics |
+| File Used | `delivery_orders_march.csv` |
+| Compressed File | `delivery_orders_march.csv.zip` |
+| Compressed Size | Approximately 381 MB |
+| Extracted CSV Size | Approximately 721 MB |
+| Number of Records | 3,176,313 rows |
+| Number of Columns | 6 columns |
+| Domain | E-commerce Logistics |
 
+## Libraries Used
 
+| Library | Purpose |
+|---|---|
+| Pandas | Baseline data loading, inspection, and optimisation strategies |
+| Dask | Scalable dataframe processing using partition-based computation |
+| Polars | High-performance dataframe processing using Rust engine and lazy execution |
 
-## Repository Contents
+## Project Files
 
-* [Main Technical Report](bdm/group1/big\_data.md): Detailed analysis and performance benchmarks.
+| File | Description |
+|---|---|
+| `big_data.md` | Main Markdown technical report |
+| `big_data.ipynb` | Google Colab notebook containing all code, explanations, tables, and charts |
+| `readme.md` | Project overview, group details, dataset information, and file links |
 
-* [Jupyter Notebook](bdm/group1/big\_data.ipynb): Full source code with Pandas, Polars, and Dask implementations.
+## Work Distribution
 
+| Student | Responsibility |
+|---|---|
+| ELIJAH SHE YU SHENG | Dataset preparation, dataset description, Pandas baseline, Pandas strategies, GitHub setup, first half of report |
+| NEO LI XIN | Dask and Polars implementation, performance testing, comparison charts, analysis, conclusion and scalability reflection |
 
+## How to Run
 
-## Key Technologies
+1. Upload `delivery_orders_march.csv.zip` to Google Drive.
+2. Open `big_data.ipynb` in Google Colab.
+3. Update the `base_dir` path if your Google Drive folder is different.
+4. Run all cells from top to bottom.
+5. Confirm that all outputs, comparison tables, and charts are visible before submission.
 
-* **Languages:** Python (Pandas, Polars, Dask)
+## GitHub Folder Structure
 
-* **Infrastructure:** GitHub, Google Colab
-
-* **Concepts:** Memory Optimization, Parallel Processing, Data Engineering
-
+```text
+ass2/your_group_name/
+├── big_data.md
+├── big_data.ipynb
+└── readme.md
+```
