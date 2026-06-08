@@ -51,7 +51,7 @@ The dataset is suitable for this assignment because the extracted CSV file is la
 |---|---|---|
 | `big_data.ipynb` | Google Colab / Jupyter Notebook containing full code, explanations, outputs, tables, and charts | [Open Notebook](https://github.com/lixinneo04/high-performance-ecommerce-data-processing/blob/main/bdm/group1/big_data.ipynb) |
 | `big_data.md` | Main Markdown technical report containing dataset description, strategies, comparative analysis, conclusion, and references | [Open Report](https://github.com/lixinneo04/high-performance-ecommerce-data-processing/blob/main/bdm/group1/big_data.md) |
-| `readme.md` | Project overview, group information, dataset details, libraries used, and links to required files | [Open README](https://github.com/lixinneo04/high-performance-ecommerce-data-processing/blob/main/bdm/group1/readme.md) |
+
 
 ---
 
