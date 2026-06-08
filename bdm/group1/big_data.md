@@ -212,9 +212,4 @@ From this assignment, we learned that big data handling is not only about choosi
 ---
 
 ## References
-
-1. SECP3133 High Performance Data Processing Assignment 2 Student Guide.
-2. Kaggle Open Shopee Code League Logistics Dataset.
-3. Pandas Documentation.
-4. Dask Documentation.
-5. Polars Documentation.
+1. Kaggle Open Shopee Code League Logistics Dataset.
