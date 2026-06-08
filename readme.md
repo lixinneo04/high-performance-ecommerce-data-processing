@@ -1,4 +1,4 @@
-# SECP3133 Assignment 2: Mastering Big Data Handling
+# SECP3133 Assignment 2: Mastering Big Data Handling (SHOPEE)
 
 ## Group Information
 
