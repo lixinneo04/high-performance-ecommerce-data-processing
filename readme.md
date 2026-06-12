@@ -92,16 +92,16 @@ The project compares **Pandas**, **Dask**, and **Polars** using the same process
 
 ## Submission Checklist
 
-- [x] Dataset is larger than 700 MB
-- [x] Pandas is used as the compulsory baseline library
-- [x] Two scalable libraries are used: Dask and Polars
-- [x] Five big data handling strategies are implemented
-- [x] Memory usage and execution time are measured
-- [x] Comparison table and charts are included
-- [x] Notebook contains code, explanations, and visible outputs
-- [x] Markdown report is completed
-- [x] README contains project details and links to required files
-- [x] Required files are placed in the correct GitHub folder
+- ✅ Dataset is larger than 700 MB
+- ✅ Pandas is used as the compulsory baseline library
+- ✅ Two scalable libraries are used: Dask and Polars
+- ✅ Five big data handling strategies are implemented
+- ✅ Memory usage and execution time are measured
+- ✅ Comparison table and charts are included
+- ✅ Notebook contains code, explanations, and visible outputs
+- ✅ Markdown report is completed
+- ✅ README contains project details and links to required files
+- ✅ Required files are placed in the correct GitHub folder
 
 ---
 
