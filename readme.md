@@ -55,13 +55,6 @@ The dataset is suitable for this assignment because the extracted CSV file is la
 
 ---
 
-## Repository Folder
-
-The complete project folder can be accessed here:
-
-[Open Group 1 Folder](https://github.com/lixinneo04/high-performance-ecommerce-data-processing/tree/main/bdm/group1)
-
----
 
 ## Work Distribution
 
