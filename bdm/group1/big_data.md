@@ -337,13 +337,11 @@ Polars achieved the best overall execution performance and is particularly suita
 
 ## 7. Conclusion and Scalability Reflection
 
-This assignment demonstrates the importance of applying suitable big data processing strategies when working with large datasets. Techniques such as loading only required columns, chunking, data type optimisation, sampling, and scalable data processing frameworks significantly improve efficiency and reduce memory pressure. Through the comparative analysis, it was observed that Polars achieved the fastest execution time, while Pandas exhibited the lowest peak memory usage. Dask provided a scalable approach through partition-based processing, making it suitable for larger datasets and distributed environments.
+This assignment highlights the importance of selecting appropriate big data processing techniques to improve performance and manage memory efficiently. The results showed that Polars achieved the fastest execution time, Pandas had the lowest peak memory usage, and Dask provided better scalability through partition-based processing.
 
-The experimental results show that different libraries excel under different conditions. For datasets that can comfortably fit into memory, Polars offers excellent performance and rapid execution. Pandas remains a practical choice for straightforward analysis due to its simplicity and extensive ecosystem. When dataset sizes grow beyond the limitations of a single machine, Dask becomes increasingly valuable because of its ability to distribute workloads across multiple partitions and computing resources.
+Each library is suitable for different scenarios. Polars is ideal for fast in-memory processing, Pandas is convenient for general data analysis, and Dask is better suited for handling larger datasets that require distributed processing. As dataset sizes increase from gigabytes to terabytes, more advanced solutions such as Dask, Apache Spark, and cloud-based platforms become necessary. Using efficient storage formats such as Parquet can also improve performance and reduce storage requirements.
 
-If the dataset size increased to approximately 10 GB, careful memory management and chunk-based processing would become essential. At 100 GB, distributed processing frameworks such as Dask would be more suitable for maintaining acceptable performance. For datasets approaching 1 TB, enterprise-scale solutions such as Apache Spark, cloud-based storage systems, and distributed data warehouses would be required. Furthermore, converting raw CSV files into efficient columnar formats such as Parquet would significantly reduce storage requirements and improve query performance.
-
-In conclusion, the study highlights that no single library is universally superior. Instead, the most appropriate solution depends on the specific balance between performance, memory efficiency, scalability, and ease of use required by the application.
+In conclusion, no single library is the best in all situations. The choice depends on the required balance between performance, memory efficiency, scalability, and ease of use.
 
 
 ---
