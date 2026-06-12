@@ -113,7 +113,7 @@ The results may vary slightly depending on the runtime environment, especially w
 
 ## References
 
-- [[Open] Shopee Code League - Logistics]((https://www.kaggle.com/competitions/open-shopee-code-league-logistic))
+- [[Open] Shopee Code League - Logistics](https://www.kaggle.com/competitions/open-shopee-code-league-logistic)
 - [Pandas Documentation](https://pandas.pydata.org/docs/)
 - [Dask Documentation](https://docs.dask.org/)
 - [Polars Documentation](https://docs.pola.rs/)
